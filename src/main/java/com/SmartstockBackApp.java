@@ -10,6 +10,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
  * Al correr esto, Spring Boot escanea automáticamente todos los paquetes com.smartstock
  * y arma el sistema solo, gracias a las anotaciones (@Entity, @Repository, @Service, @RestController).
+ *
+ * Este servira para pruebas localmente
  */
 
 @SpringBootApplication
