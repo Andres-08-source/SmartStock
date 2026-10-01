@@ -16,6 +16,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SmartstockBackApp {
     public static void main(String[] args) {
         SpringApplication.run(SmartstockBackApp.class, args);
-        System.out.println("✔ Backend SmartStock corriendo en http://127.0.0.1:8080");
+        System.out.println("✔ Backend SmartStock iniciado correctamente.");
     }
 }
